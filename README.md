@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shobhit.tech](https://shobhit.tech)
 
-- 📫 How to reach me **shobhitbaijal5@gmail.com**
+- 📫 How to reach me  [contact@shobhit.tech](mailto:contact@shobhit.tech)
 
 - 📄 Know about my experiences [https://linkedin.com/in/shobhit9945](https://linkedin.com/in/shobhit9945)
 
