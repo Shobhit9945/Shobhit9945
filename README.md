@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **DocNearMe - A  Clinic/Hospital Reservation App**
 
-- 👨‍💻 All of my projects are available at [https://shobhit.gq](https://shobhit.gq)
+- 👨‍💻 All of my projects are available at [https://shobhit.tech](https://shobhit.tech)
 
 - 📫 How to reach me **shobhitbaijal5@gmail.com**
 
